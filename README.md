@@ -1,1 +1,1 @@
-# ML_FPGA_UNMDP
+# From Algorithm to Hardware: Machine Learning in Embedded Systems
