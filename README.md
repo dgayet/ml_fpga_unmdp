@@ -2,5 +2,5 @@
 
 Stack:
 
-Python - hls4ml, keras?, pytorch?
+Python - hls4ml, TensorFLow
 HDL - Vivado
