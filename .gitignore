@@ -6,7 +6,6 @@
 *.exe
 *.o
 *.so
-hlsPrj
 
 # Packages #
 ############
@@ -42,3 +41,6 @@ Thumbs.db
 # 06 Cache #
 ############
 __pycache__
+
+# 07 HLS PROJECTS #
+hlsPrj/
