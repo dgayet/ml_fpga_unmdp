@@ -1,1 +1,0 @@
-docker run -it --mount type=bind,source="/tmp/.X11-unix",target="/tmp/.X11-unix" --mount type=bind,source="/Volumes/denise_apfs/vivado-m1",target="/home/user" --platform linux/amd64 x64-linux bash /home/user/vivado_installation.sh
