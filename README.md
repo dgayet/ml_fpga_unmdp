@@ -7,14 +7,20 @@ The course combines theory and practice to provide a comprehensive understandnin
 
 **Program**
 
-- Introudction to Machine Learning: ANN, CNN, and Training Techniques (K-fold cross validation)
-- Model Compression: Pruning, Quantization and Knowledge Distillitaion
-- SoC Architecture: Architectures, Workflow and Tools
-- Introduction to High-Level Syinthesis
-- HyperFPGA: Enhancing Education with Remote Laboratory Access
-- Deploying Machine Learning on HyperFPGA and SoC-FPGA Boards
-- Overview of Embedded Platform Architectures and Key Hardware Components for Machine Learning Applications
-- Methodological Approach to Designing Embedded Platforms for Machine Learning 
+- Machine Learning and FPGA: Evolution and current state of these technologies. Edge AI. Machine learning: From theory to practice.
+- Model Compression For Machine Learning-based Models: Pruning, Quantization, and Knowledge Distillation. Definition. Integration of
+the different techniques. Benefits and drawbacks.
+- System-On-Chip based on FPGA: SoC/FPGA features and architecture. SoC/FPGA for ML-based acceleration. Hardware design flow.
+- High-Level Synthesis: (Pragma) in IP core design flow.
+Bridging software and hardware. Overview HLS, basic considerations. Definition and utilization of optimizations
+- Communication Block and HyperFPGA: Enhancing education with remote laboratory access. ComBlock as communication block between
+FPGA and Processing System. HyperFPGA: heterogeneous computing, development workflow
+- High-Level Synthesis for Machine Learning (hls4ml): Bridging machine learning and FPGAs for ultra-fast inference. Workflow for deep
+neural network deployment on embedded architectures.
+- Embedded Platforms for Machine Learning: Overview of embedded platform architectures and key hardware components,
+methodological approach to designing embedded platforms. Practical hardware design consideration, managing power integrity issues.
+Addressing signal integrity challenges, optimizing electromagnetic compatibility (EMC) and mitigating electromagnetic interference (EMI).
+- Invited talk: AI Engines from AMD Xilinx.
 
 **Stack**
 
